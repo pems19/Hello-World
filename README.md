@@ -40,6 +40,7 @@ Paso 2: Administrador de dispositivos
 ------------
 
 Conectar el DEVkit  al sistema Windows por medio del cable USB.
+
 Abrir el Administrador de dispositivos Panel de control > Hardware y Sonido > Dispositivos e impresoras > Administrador de dispositivos
 
 Dentro de la lista de dispositivos se encuentra un apartado llamado “Otros dispositivos” y contendrá un dispositivo etiquetado como “FT232R USB UART”
@@ -74,9 +75,13 @@ Paso 4: Configurar USB Serial Port
 ------------
 
 Una vez configurado el dispositivo como USB Serial Converter vamos a asignarlo como dispositivo en el puerto serie.
+
 Pulsamos click derecho sobre el dispositivo y seleccionamos la opción “Actualizar software de controlador”
+
 En la siguiente ventana elegimos la opción “Buscar software de controlador en el equipo”
-A continuación seleccionamos “Elegir en una lista de controladores de dispositivo en el equipo”   
+
+A continuación seleccionamos “Elegir en una lista de controladores de dispositivo en el equipo” 
+
 En el cuadro emergente seleccionamos en el cuadro de fabricante “FTDI” y en modelo “USB Serial Port”
 
 ![admin05](https://github.com/pems19/Hello-World/blob/master/pics/admin05.png?raw=true)
@@ -88,11 +93,13 @@ En el cuadro emergente seleccionamos en el cuadro de fabricante “FTDI” y en 
 Paso 5: Instalación driver CH340 
 ------------
 Ahora instalaremos el driver para el Chip de comunicación CH340G  ([Descarga](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip))
+
 Descomprimir el archivo ZIP en una carpeta, encontraremos 2 carpetas. 
 
 ![ch01](https://github.com/pems19/Hello-World/blob/master/pics/ch01.png?raw=true)
 
 Abrimos la carpeta CH341SER que es la que contiene el instalador del driver CH340, y ejecutamos el archivo “SETUP.EXE”
+
 A continuación presionamos el botón “INSTALL” 
 
 ![ch02](https://github.com/pems19/Hello-World/blob/master/pics/ch02.png?raw=true)
