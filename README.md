@@ -52,8 +52,11 @@ Paso 3: Actualización del controlador
 ------------
 
 Presionamos click derecho en el dispositivo “FT232R USB UART” y seleccionamos la opción “Actualizar software de controlador”
+
 En la siguiente ventana elegimos la opción “Buscar software de controlador en el equipo”
-A continuación seleccionamos “Elegir en una lista de controladores de dispositivo en el equipo”   
+
+A continuación seleccionamos “Elegir en una lista de controladores de dispositivo en el equipo”  
+
 Dentro de la lista del menú de actualización seleccionamos la opción “Universal Serial Bus Controllers” y pulsamos siguiente.
 
 ![admin02](https://github.com/pems19/Hello-World/blob/master/pics/admin02.png?raw=true)
