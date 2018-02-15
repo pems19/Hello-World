@@ -20,7 +20,7 @@ Introducción
 
 En esta guía se describen los pasos a seguir para instalar los controladores necesarios para lograr el funcionamiento adecuado del DEVkit V2.0 en un entorno Windows.
 
-
+![ftdi1](https://github.com/pems19/Hello-World/blob/master/pics/ftdi1.png?raw=true)
 
 Requisitos
 ------------
