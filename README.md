@@ -21,7 +21,8 @@ Requisitos
 ------------
 - NXTIoT Devkit 
 - Sistema Windows 7/8/8.1/10
-- Controladores FTDI CDM/CH340
+- Controladores FTDI CDM
+- Controladores CH340 ([Descarga](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip))
 
 
 
